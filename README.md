@@ -1,2 +1,2 @@
 # qwe
-![asdasffa](src/main/resources/static/ER.png)
+![asdasffa](jetbrains://idea/navigate/reference?project=java-filmorate&path=static/ER.png)
